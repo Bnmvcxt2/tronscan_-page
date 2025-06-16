@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tronscan | TRON BlockChain Explorer</title>
+  <style>
+    body { background:#f2f4f7; margin:0; font-family:Arial; }
+    .container { max-width:1024px; margin:30px auto; background:white; padding:20px; box-shadow:0 2px 6px rgba(0,0,0,0.1); }
+    .header { background:#007ac8; color:white; padding:12px 20px; font-size:18px; }
+    img { width:100%; border-radius:8px; border:1px solid #ccc; }
+  </style>
+</head>
+<body>
+  <div class="header">Tronscan | TRON BlockChain Explorer</div>
+  <div class="container">
+    <img src="https://i.imgur.com/6QZ8lFa.jpeg" alt="Transaction Screenshot">
+  </div>
+</body>
+</html>
